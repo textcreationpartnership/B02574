@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Edmond Boulter, Esq; in answer to the petition of the Earl of Radnor.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02574</idno>
+            <idno type="STC">Wing C905CA</idno>
+            <idno type="STC">ESTC R173442</idno>
+            <idno type="EEBO-CITATION">51784427</idno>
+            <idno type="OCLC">ocm 51784427</idno>
+            <idno type="VID">174847</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02574)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174847)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2703:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Edmond Boulter, Esq; in answer to the petition of the Earl of Radnor.</title>
+               </titleStmt>
+               <extent>[3] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.)</note>
+                  <note>Place of publication taken from text.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Boulter, Edmond --  Trials, litigation, etc.</term>
+               <term>Radnor, Charles Bodvile Robartes, --  Earl of, 1660-1723 --  Trials, litigation, etc.</term>
+               <term>Cutler, John --  Sir --  Estate.</term>
+               <term>Estates (Law) --  Cases --  England --  17th century.</term>
+               <term>Equity pleading and procedure --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:174847:1" rendition="simple:additions"/>
+            <head>THE CASE OF Edmond Boulter, Eſq; In ANSWER to The Petition of the Earl of <hi>Radnor.</hi>
+            </head>
+            <p>THE Subſtance of the Earl of <hi>Radnor</hi>'s Petition, is, That the Earl, in Right of his Counteſs, Daughter of Sir <hi>John Cutler,</hi> having great Demands on Mr. <hi>Boulter,</hi> in relation to the Perſonal and Real Eſtate of Sir <hi>John Cutler,</hi> exhibited a Bill in <hi>Chancery</hi> above a Year ſince, which Mr. <hi>Boulter</hi> ſhould have Anſwered before <hi>Hilary-Term</hi> then next following; and, That on Mr. <hi>Boulter,</hi> promiſing to comply with the Earl's Demands, the Earl was prevail'd with to ſtop his Suit.</p>
+            <p>That Mr. <hi>Boulter</hi> being ſince a Member of Parliament, refuſeth to ſatisfie the Earl, and to put in his Anſwer to the Earl's Bill, although he declared to the Earl, that he did not inſiſt on, but wave his Priviledge, but refuſeth to give it under his Hand.</p>
+            <q>The Earl therefore prayeth the Houſe to Approve of, and Confirm Mr. <hi>Boulter</hi>'s waving of his Privilege.</q>
+            <p>Upon which Petition, it is obſerved, That it doth not appear by this Petition, what the Earl's pretended Demands were, nor how they are Demandable of Mr. <hi>Boulter,</hi> whether againſt him in his own Right, or as he is Executor of Sir <hi>John Cutler,</hi> or Truſtee.</p>
+            <p>But, Mr. <hi>Boulter</hi>'s Caſe is thus, <hi>(viz.)</hi> Sir <hi>John Cutler</hi> made Mr. <hi>Boulter</hi> his Executor, and died the 15th. of <hi>April,</hi> 1693; and by his Will (after his Debts and Legacies paid) gave Mr. <hi>Boulter</hi> his Kinſman all the reſt of his Perſonal Eſtate (which by the Cuſtom of <hi>London</hi> he could give,) one half of which Perſonal Eſtate devolved on the Counteſs the only Daughter of Sir <hi>John Cutler,</hi> a Freeman of <hi>London,</hi> as her Cuſtomary Part. Of which Mr. <hi>Boulter</hi> hath paid the Earl 39000 <hi>l.</hi> and upwards: And Mr. <hi>Boulter</hi> hath alſo, in Funeral Expences, by the Earl's Conſent and Approbation under his Hand, and by Payment of Debts and Law-Charges, laid out above 7660 <hi>l.</hi> Which Payments do conſiſt of very many <hi>Item</hi>'s or Particulars, a Moiety of which belongs to the Earl to allow out of his Moiety, and ſo is in conſequence a Payment to him of ſo much. Beſides which, the Earl has enjoyed the Profits of Lands with his Counteſs, ſince her Father's Death, amounting to about 14000 <hi>l.</hi>
+            </p>
+            <pb n="2" facs="tcp:174847:2"/>
+            <p>And as to the Lands Sir <hi>John Cutler,</hi> by Deed of Settlement, ſetled all of it upon Mr. <hi>Boulter,</hi> and his other Relations, in failure of Iſſue by his Daughter the Counteſs.</p>
+            <p>After Sir <hi>John Cutler</hi>'s Death, there being great Arrears of Rents from Tenants, Mr. <hi>Boulter</hi> being entitled to Half thereof, and many Rents being deſperate, and Tenants poor, the Earl, under Hand and Seal, impowered Mr. <hi>Boulter</hi> to make Abatements and Diſcharges as he did ſee cauſe. Which he did, purſuant to the Power given him.</p>
+            <p>In relation to the Accounts of which Eſtate, (after Mr. <hi>Boulter</hi> had paid the Earl ſuch great Summs of Money,) the Earl raiſing many cauſeleſs Scruples in many Particulars, Mr. <hi>Boulter</hi> though it high time to get an Adjuſtment and Allowance of his Accompts, which were very large, and therefore deſired the Earl to adjuſt the Accompts between them: Which the Earl ſuch great Summs of Money,) the Earl raiſing many cauſeleſs Scruples in many Particulars, Mr. <hi>Boulter</hi> thought it high time to get an Adjuſtment and Allowance of his Accompts, which were very large, and therefore deſired the Earl to adjuſt the Accompts between them: Which the Earl delayed, but ſtill preſſed Mr. <hi>Boulter</hi> for more Money; and gave out to his Creditors, That Mr. <hi>Boulter</hi> ow'd him a great Summ of Money.</p>
+            <p>This, as Mr. <hi>Boulter</hi> (who had paid him near the full Moiety of the Receipts) conceived, reflected very much upon him, and made him perſiſt to have his Accompts adjuſted. Whereupon, when the Earl could draw no more Money from Mr. <hi>Boulter,</hi> he brought the Bill in <hi>Chancery,</hi> in his Petition mentioned, which is near Two Hundred and Fifty Sheets of Paper, complaining that Mr. <hi>Boulter</hi> would not come to Accompt, and charging therein many things of great Reflection upon Mr. <hi>Boulter.</hi>
+            </p>
+            <p>Upon which, Mr. <hi>Boulter</hi> attended the Earl concerning them; who told Mr. <hi>Boulter,</hi> That moſt of the Charges in that Bill was his Councel's In<g ref="char:EOLhyphen"/>vention, and againſt his Knowledge or Intent: And Mr. <hi>Boulter</hi> ſtill preſſed to have the Accompts ſetled and allowed ſpeedily, (Mr. <hi>Boulter</hi> being unwilling to leave them unſetled, in caſe of his Death.) And the Earl promiſed fair, but Mr. <hi>Boulter</hi> could get nothing finiſhed, although the Earl made ſome proceedings; which were only done, as Mr. <hi>Boulter</hi> conceived, to encline Mr. <hi>Boulter</hi> to pay him more Money, but in a ſhort time deſiſted therein.</p>
+            <p>When the Earl found that he could not prevail with Mr. <hi>Boulter</hi> to pay him more Money, until the Accompts were actually ſetled and allowed, and there being conſiderable of the Perſonal Eſtate ſtill ſtanding out, particularly near 20000 <hi>l.</hi> from <hi>William Lenthall,</hi> upon a Mortgage of Land in <hi>Oxford<g ref="char:EOLhyphen"/>ſhire,</hi> and upon the Profits of the Office of Marſhal of the <hi>King's-Bench;</hi> the Earl deſired to compaſs that Debt or Eſtates to himſelf, and to have an Aſſignment of that Security in further part of his Cuſtomary Part of Sir <hi>John Cutler</hi>'s Perſonal Eſtate. And Mr. <hi>Boulter</hi> was willing to comply with the Earl's Requeſt, provided he might have his Accompts ſetled and adjuſted, and offered the Earl to abate him 1000 <hi>l.</hi> of his ſhare of that Debt.</p>
+            <p>Whereupon the Earl,
+<note place="margin">
+                  <hi>April</hi> 30. 1698.</note> after the Bill Exhibited, Entred into an Agreement under Hand and Seal with Mr. <hi>Boulter,</hi> that all Accompts between him and Mr. <hi>Boulter,</hi> relating to the Executorſhip, and other<g ref="char:EOLhyphen"/>wiſe, ſhould be forthwith Adjuſted, and to perform other Matters in that Agreement. But the Accompts are not yet ſettled by the Earl, nor the other Matters (as Covenanted by the Earl to be done) although Mr. <hi>Boulter</hi> hath conſented to a Marſhal at the Earl's Requeſt, and by that Agree<g ref="char:EOLhyphen"/>ment, hath let the Earl into Poſſeſſion of the Profits of the Office of Marſhal, on which the Earl hath reſerved 1000 <hi>l. per Annum,</hi> as Mr. <hi>Boul<g ref="char:EOLhyphen"/>ter</hi> is informed; and though the Earl doth not perform that Agree<g ref="char:EOLhyphen"/>ment, yet the Earl preſſeth Mr. <hi>Boulter</hi> to make him an Aſſignment of
+<pb n="3" facs="tcp:174847:3"/>
+               <hi>Lenthall</hi>'s. Land-Security immediately, but procures not Mr. <hi>Lenthall</hi> to ſettled his Accompts with Mr. <hi>Boulter;</hi> nor doth the Earl perform the Agreement that relates to his Covenant for other Matters for <hi>Lenthall</hi> to do. And Mr. <hi>Boulter</hi> doth apprehend, that if the ſhould Aſſign to the Earl the Land-Security, without Settlement of <hi>Lenthall</hi>'s Accompt, it would after Involve Mr. <hi>Boulter</hi> in Trouble with <hi>Lenthall</hi> on thoſe un<g ref="char:EOLhyphen"/>ſettled Accompts with <hi>Lenthall.</hi>
+            </p>
+            <p>
+               <hi>Note,</hi> That ſince the ſaid Agreement, the Earl and Mr. <hi>Boulter</hi>'s Ac<g ref="char:EOLhyphen"/>comptants have been Adjuſting the Accompts in an amicable Way, and have gone a great way in it; But the Earl will not ſettle the Accompts, upon pretence Mr. <hi>Boulter</hi> keeps ſome Writings touching the Eſtate in <hi>Cambridgeſhire;</hi> which (as is alledged) the Earl Claims the Inheritance of, by a Gift from Mr. <hi>Boulter,</hi> to the Earl and Counteſs; which if it be true, the Earl has the leſs reaſon to Complain of Mr. <hi>Boulter,</hi> being 2500 <hi>l. per Annum</hi> Inheritance, and being ſettled on the Counteſs for her Life, and on her Iſſue only: And ſhe is Dead without Iſſue. But the Matter of that Matter touching the <hi>Cambridgeſhire</hi> Eſtate, is alſo Controverted.</p>
+            <p>Wherefore, and in reſpect of the ſaid Agreement, made long ſince the Earl's Bill Filed, Mr. <hi>Boulter</hi> hopeth that this Honourable Houſe will not Interpoſe, until the Earl hath performed his Agreement made ſince the Bill Exhibited, relating to the Setling and Adjuſting all Accompts of the Executorſhip, and otherwiſe, as Agreed to be amicably done, and which are ſo far forwarded by Mr. <hi>Boulter,</hi> that Mr. <hi>Boulter</hi> hath permitted the Earl's own Agent to take a full Accompt thereof, and of the Inventory of the whole Perſonal Eſtate, and of all Receipts and Disburſements, and they are all before the Earl, to Allow, or make his particular Objections thereunto; which, as yet, the Earl hath not done; but contrary to his Agreement, would without any Juſt Cauſe, engage Mr. <hi>Boulter</hi> in a Trou<g ref="char:EOLhyphen"/>bleſom and Chargeable Suit in <hi>Chancery.</hi>
+            </p>
+            <p>As to Mr. <hi>Boulter</hi>'s waving his Priviledge, he hath done no Act ſince he was a Member for any ſuch Purpoſe; But he believes he might (being asked whether he would inſiſt on his Privilege) ſay, he believed he ſhould not. But ſurely, every ſlight word will not make a Waver of Pri<g ref="char:EOLhyphen"/>vilege of a Member.</p>
+            <p>As to the Matter of the Lord <hi>De la Ware</hi> and Sir <hi>John Cutler,</hi> it was thus; Sir <hi>John Cutler</hi> had put in an Anſwer in <hi>Chancery,</hi> and ſubmitted to many Orders to be made in time of Priviledge, without Complaint of any Breach; and afterwards would have reſumed his Priviledge;</p>
+            <p>Which the Houſe would not permit him to do.</p>
+            <p>In this Caſe there are only ſuch Words pretended, as before.</p>
+            <p>
+               <hi>Mr.</hi> Boulter<hi>'s Intent is only to avoid a tedious Suit in</hi> Chancery <hi>upon Accompt, and have all his Accompts adjuſted by a Reference to In<g ref="char:EOLhyphen"/>different Perſons; which if the Earl refuſes, Mr.</hi> Boutler <hi>being accomptable, in his own Perſon and Eſtate, for what he has done touching Sir</hi> John Cutler<hi>'s Eſtate: He hopes this Honourable Houſe will not Interpoſe in this Matter.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:174847:4"/>
+            <p>THE CASE OF <hi>Edmond Boulter,</hi> Eſq;</p>
+         </div>
+      </back>
+   </text>
+</TEI>
